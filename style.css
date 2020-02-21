@@ -1,0 +1,78 @@
+.App-bg{  
+background-image:url(../pic.jpg);  
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+  }
+
+  .Appwelcome{
+   position: fixed;   
+   width: 26rem;
+   height: 90%;
+   margin-top:auto;   
+   margin-left: 5%;
+   background: #52ab27;
+   opacity: 0.8;
+   mix-blend-mode: color-burn;
+   border-radius: 21px 0px 0px 21px;
+  }
+  .AppwelcomeText{
+    position: fixed;          
+    width: 26rem;
+    height: 80%;
+    margin-left: 5%;
+    margin-top: 23%;
+  font-family: Josefin Sans;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+  }
+
+  .AppTextbox{
+    position: fixed;  
+    margin-left: 30rem;
+    width: 100vh;
+    height: 90%;
+    background: linear-gradient(0deg, #FFFFFF, #FFFFFF), #FFFFFF;
+    opacity: 0.8;
+    border-radius: 21px 0px 21px 0px;
+  }
+
+.Applogin{
+  margin-left: 10%;
+  margin-top: 30%;
+  position: fixed;          
+    width: 26rem;
+    height: 80%;
+    margin-left: 5%;
+    margin-top: 23%;
+  font-family: Josefin Sans;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 36px;
+  text-align: center;
+  color: #000000;
+}
+.formStyle{
+  margin-left: 20%;
+  margin-top: 10%;
+}
+
+.btnLogin{
+  position: relative;
+  margin-right: 5%;  
+  margin-top: 30px;
+  width: 100px;
+  height: 50px;
+  background: #71AB27;
+  border-radius: 9px;  
+
+}
