@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.App {
+  text-align: center;
+ 
+}
+
+.header{
+ color:greenyellow
+}
+.home{
+  font-family: 'Montserrat', sans-serif;
+ 
+  color: white;
+  height: 60ex;
+  background-image:url(./back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.home h2{
+  font-size:42px ;
+  
+}
+
+.homesearch{
+  size: relative;
+  height: 40%;
+  width: 50% ;
+  padding: 20px;
+  border-radius: 5px;
+  background-color:black;
+  opacity:50%;
+  position: relative;
+  left:50vh;
+  top:1vh;
+  align-content: space-between;
+}
+.textboxes{
+  padding-left: 40px;
+}
+.form {
+  padding: 20px;
+  
+}
+
+.About{
+  text-align: center;
+  height: 20rem;
+}
+
+
+.abouttext{
+  padding:60px;
+}
+
+.senator{
+  padding-top:100px;
+  height:80%;
+  width: 80%;
+
+}
+
+.btnfindjob{
+  margin-top: 10px;
+ margin-right: 3.2rem;
+ margin-left: 13.2rem;
+}
+.btnpostjob{
+  margin-top: 10px;
+  margin-right: 13rem;  
+
+}
+
+
